@@ -10,10 +10,10 @@
 ## 安装
 
 ```bash
-# 克隆仓库
+# 克隆仓库到本地
 git clone https://github.com/RayYeung1989/yang-skills.git
 
-# 安装全部技能
+# 安装全部技能到 Claude Code 技能目录
 cp -r yang-skills/yang-* ~/.claude/skills/
 
 # 或安装单个技能
