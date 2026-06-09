@@ -9,14 +9,14 @@
 
 ## 安装
 
-直接复制 Skills 到 Claude Code 技能目录：
-
 ```bash
+# 克隆仓库
+git clone https://github.com/RayYeung1989/yang-skills.git
+
 # 安装全部技能
-mkdir -p ~/.claude/skills
 cp -r yang-skills/yang-* ~/.claude/skills/
 
-# 安装单个技能
+# 或安装单个技能
 cp -r yang-skills/yang-diagnose ~/.claude/skills/
 ```
 
