@@ -2,14 +2,19 @@
 .claude/
 CLAUDE.md
 
+# Personal tools & IDE
+.codegraph/
+.cursor/
+.workbuddy/
+.vscode/
+.idea/
+CONTEXT.md
+assets/architecture.html
+
 # 系统文件
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# IDE
-.vscode/
-.idea/
 
 # 临时文件
 *.tmp
